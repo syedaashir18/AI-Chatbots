@@ -11,7 +11,7 @@ A collection of intelligent AI chatbots built using Retrieval-Augmented Generati
 | # | Project | Description | Notebook |
 |---|---------|-------------|----------|
 | 1 | 🛩️ Pakistan Air Force Chatbot | RAG chatbot about PAF — history, aircraft, operations & more | [Open Notebook](./paf-chatbot.ipynb) |
-| 2 | 🏦 HBL Customer Support | RAG chatbot for HBL bank queries with chat history | [Open Notebook](./hbl-customer-support.ipynb) |
+| 2 | 🏦 HBL Bank Customer Support | RAG chatbot for HBL bank customer queries | Coming Soon |
 
 > More chatbots coming soon...
 
